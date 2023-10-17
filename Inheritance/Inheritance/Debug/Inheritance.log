@@ -1,0 +1,6 @@
+﻿  Cone.cpp
+C:\Users\C00259317\Desktop\Inheritance\Inheritance\Cone.cpp(17,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\C00259317\Desktop\Inheritance\Inheritance\Cone.cpp(23,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  Inheritance.vcxproj -> C:\Users\C00259317\Desktop\Inheritance\Debug\Inheritance.exe
